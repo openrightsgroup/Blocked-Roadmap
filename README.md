@@ -11,3 +11,5 @@ The cards are top-level representations of the product outcomes we want. Where a
 - Items we are currently doing are in 'Now'.
 - Items we want to do next are in 'Next'.
 - Items we will do in the future but not next are in 'Later'.
+
+Lower-level tasks for the project are managed in [this Kanban board](https://github.com/orgs/openrightsgroup/projects/1).
