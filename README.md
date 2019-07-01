@@ -2,8 +2,6 @@
 
 **What is this?**
 
-_This is not ready yet._
-
 This is the product roadmap for [ORG's Blocked project](https://blocked.org.uk).
 
 This is a forward-looking statement of what we want to do on the Blocked project. The content might change and the dates are estimates not fixed delivery dates.
